@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in Data Analysis and Product Analysis
-- 🌱 I’m currently learning Python, SQL
+- Aspiring Product Analyst
+- 🌱 I’m currently learning Python, SQL, and LookerStudio (with some Tableau)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an American living in France
 
