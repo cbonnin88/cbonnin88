@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in Data Analysis with a specialization in Product Analytics and Cloud Computing (GCP)
-- Aspiring Product Analyst
-- 🌱 I’m currently learning Python, SQL, and Looker Studio and Tableau
+- Aspiring Cloud Data Analyst or Cloud Product Analyst
+- 🌱 I’m currently learning Python, SQL,Looker Studio,Tableau and Google Cloud Platform
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an American living in France
 
