@@ -7,7 +7,7 @@ Here are some of the key technologies and tools I work with:
 
 Cloud Platforms: Google Cloud Platform (BigQuery, Cloud Storage, Dataflow)
 
-Data Warehousing: Amazon Redshift, Google BigQuery, Snowflake
+Data Warehousing: Google BigQuery, Snowflake
 
 ETL & Data Pipelines: Apache Airflow, dbt
 
@@ -23,25 +23,24 @@ Version Control: Git & GitHub
 ## **🚀 My GitHub Projects**
 In this section, you'll find a selection of projects that demonstrate my skills and experience. Each project includes a detailed description of the problem, the solution, and the technologies used.
 
-### **📊 Project 1: Data Analyst Jobs**
-
+### **📊 Project 1: [Data Analyst Jobs](https://github.com/cbonnin88/Data-Analyst-Jobs)**
 Description: Analyzing Data-based Jobs as well as Data Jobs based in France.
 
 Technologies Used: Python, Pandas, PostgreSQL, Tableau.
 
-### **🎧 Project 2: SoundStream**
+### **🎧 Project 2: [SoundStream](https://github.com/cbonnin88/Soundstream)**
 
 Description: SoundStream, a music streaming app, Analyzing different product areas (user retention, Business Scenarios, understanding user actions).
 
 Technologies Used: Google Sheets, Bigquery, Python(Pandas, Plotly), Amplitude (Product Analysis), Google Cloud Platform, Looker Studio.
 
-### **👩🏾‍🚀 Project 3: Starfield Industries**
+### **👩🏾‍🚀 Project 3: [Starfield Industries](https://github.com/cbonnin88/Starfield-Industries)**
 
 Description: Providing actionable insights into employee demographics, performance, and compensation.
 
 Technologies Used: Google Sheets, PostgreSQL, Python(Polars, Plotly), Looker Studio.
 
-### **🏥 Project 4: NHS Prescriptions**
+### **🏥 Project 4: [NHS Prescriptions](https://github.com/cbonnin88/NHS-Prescriptions)**
 
 Description: Extracting Insights for the NHS prescription database to understand the medicines the most used.
 
@@ -59,13 +58,13 @@ Description: Focusing on employee income insights and attrition prediction.
 
 Technologies Used: Bigquery, Python(Pands, Plotly, Scikit-Learn), Google Cloud Platform, Apache Airflow.
 
-#### **🚚 Mini-Project 1: Logisitic Report**
+#### **🚚 Mini-Project 1: [Logisitic Report](https://lookerstudio.google.com/reporting/acc13157-5e3a-4069-96cd-65004274e41b)**
 
 Description: A Data Visualization that shows a French office suppply store and their sales.
 
 Technologies Used: Google Sheets, Looker Studio.
 
-#### **🖥️ Mini-Project 2: Product Analyst Jobs**
+#### **🖥️ Mini-Project 2: [Product Analyst Jobs](https://lookerstudio.google.com/reporting/f91cb50b-a4cb-42bb-9ab5-229347802655)**
 
 Description: A Data Visualization that gives an overview of Product Analyst Jobs in the World.
 
