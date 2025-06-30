@@ -90,7 +90,7 @@ Lakehouse Architecture: Understanding and implementing modern data architectures
 Cloud Computing: With Google Cloud Platform and AWS
 
 #### **📫 Let's Connect!**
-I'm always open to connecting with fellow data professionals, discussing new technologies, or exploring potential opportunities. Feel free to reach out!
+I'm always open to connecting with fellow data professionals, or exploring potential opportunities. Feel free to reach out!
 
 LinkedIn: [**Christopher Bonnin**](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
 
