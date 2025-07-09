@@ -70,6 +70,11 @@ Description: A Data Visualization that gives an overview of Product Analyst Jobs
 
 Technologies Used: Python(Pandas) Looker Studio.
 
+#### **🏢 Mini-Project 3: [Talent Acquisition Analysis](https://lookerstudio.google.com/reporting/59ceaeca-904a-492f-adbf-ea6852747317)**
+
+Description: This project analyzes the entire talent acquisition funnel to identify key trends, pinpoint bottlenecks, and optimize the recruitment process.
+
+Technologies Used : Python(Polars), BigQuery, Google Cloud Platform, Looker Studio
 
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
