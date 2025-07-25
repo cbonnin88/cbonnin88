@@ -90,6 +90,8 @@ Looking ahead, I am excited to dive into these areas:
 
 Machine Learning Engineering: Building and deploying machine learning models at scale.
 
+Artifical Intelligence: Learning how to (ethnically) use and master AI
+
 Lakehouse Architecture: Understanding and implementing modern data architectures with technologies like Databricks and Delta Lake.
 
 Cloud Computing: With Google Cloud Platform and AWS
