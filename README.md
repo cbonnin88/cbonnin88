@@ -63,6 +63,9 @@ Description: The goal is to analyze synthetic employee compensation data to unco
 
 Technologies Used : Google Cloud Platform, Python(Polars, Plotly), BigQuery, BigQueryML, Looker Studio, Machine Learning(Linear Regression, classification), Docker, Streamlit
 
+## **🚀 My Mini Projects**
+In this section, you have smaller projects that focuses on certain skills in Data Analytics.
+
 #### **🖥️ Mini-Project 1: [Product Analyst Jobs](https://lookerstudio.google.com/reporting/f91cb50b-a4cb-42bb-9ab5-229347802655)**
 
 Description: A Data Visualization that gives an overview of Product Analyst Jobs in the World.
