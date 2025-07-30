@@ -58,7 +58,7 @@ Description: Focusing on employee income insights and attrition prediction.
 
 Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Google Cloud Platform, Apache Airflow.
 
-### **💶 Project 7: Compensation Analysis and Income Prediction (*in progress*)$$
+### **💶 Project 7: Compensation Analysis and Income Prediction (*in progress*)**
 Description: The goal is to analyze synthetic employee compensation data to uncover insights, build predictive models, and to present the findings.
 
 Technologies Used : Google Cloud Platform, Python(Polars, Plotly), BigQuery, BigQueryML, Looker Studio, Machine Learning(Linear Regression, classification), Docker, Streamlit
