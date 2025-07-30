@@ -63,19 +63,13 @@ Description: The goal is to analyze synthetic employee compensation data to unco
 
 Technologies Used : Google Cloud Platform, Python(Polars, Plotly), BigQuery, BigQueryML, Looker Studio, Machine Learning(Linear Regression, classification), Docker, Streamlit
 
-#### **🚚 Mini-Project 1: [Logisitic Report](https://lookerstudio.google.com/reporting/acc13157-5e3a-4069-96cd-65004274e41b)**
-
-Description: A Data Visualization that shows a French office supply store and its sales.
-
-Technologies Used: Google Sheets, Looker Studio.
-
-#### **🖥️ Mini-Project 2: [Product Analyst Jobs](https://lookerstudio.google.com/reporting/f91cb50b-a4cb-42bb-9ab5-229347802655)**
+#### **🖥️ Mini-Project 1: [Product Analyst Jobs](https://lookerstudio.google.com/reporting/f91cb50b-a4cb-42bb-9ab5-229347802655)**
 
 Description: A Data Visualization that gives an overview of Product Analyst Jobs in the World.
 
 Technologies Used: Python(Pandas), Looker Studio.
 
-#### **🏢 Mini-Project 3: [Talent Acquisition Analysis](https://lookerstudio.google.com/reporting/59ceaeca-904a-492f-adbf-ea6852747317)**
+#### **🏢 Mini-Project 2: [Talent Acquisition Analysis](https://lookerstudio.google.com/reporting/59ceaeca-904a-492f-adbf-ea6852747317)**
 
 Description: This project analyzes the entire talent acquisition funnel to identify key trends, pinpoint bottlenecks, and optimize the recruitment process.
 
