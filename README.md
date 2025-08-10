@@ -46,7 +46,7 @@ Description: Extracting Insights from the NHS prescription database to understan
 
 Technologies Used: Go, Python(Pandas & Plotly), BigQuery, LookerStudio, Google Cloud Platform, Firebase Studio (for coding in Go).
 
-### **👩🏼‍🏭 Project 5: People Analytics Pipeline (*in progress*)**
+### **👩🏼‍🏭 Project 5: People Analytics (*in progress*)**
 
 Description: Focusing on employee income insights and attrition prediction.
 
