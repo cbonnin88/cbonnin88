@@ -46,19 +46,13 @@ Description: Extracting Insights from the NHS prescription database to understan
 
 Technologies Used: Go, Python(Pandas & Plotly), BigQuery, LookerStudio, Google Cloud Platform, Firebase Studio (for coding in Go).
 
-### **📺 Project 5: Streamly (*in progress*)**
-
-Description: For the makers of Soundstream, Streamly, identifying user actions, business scenarios, and how to improve the app.
-
-Technologies Used: Google Sheets, Google Cloud Platform, BigQuery, Pandas(Polars & Plotly), Shiny, LookerML, Amplitude ,Looker Studio.
-
-### **👩🏼‍🏭 Project 6: People Analytics Pipeline (*in progress*)**
+### **👩🏼‍🏭 Project 5: People Analytics Pipeline (*in progress*)**
 
 Description: Focusing on employee income insights and attrition prediction.
 
 Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Google Cloud Platform, Apache Airflow.
 
-### **💶 Project 7: Compensation Analysis and Income Prediction (*in progress*)**
+### **💶 Project 6: Compensation Analysis and Income Prediction (*in progress*)**
 Description: The goal is to analyze synthetic employee compensation data to uncover insights, build predictive models, and to present the findings.
 
 Technologies Used : Google Cloud Platform, Python(Polars, Plotly), BigQuery, BigQueryML, Looker Studio, Machine Learning(Linear Regression, classification), Docker, Streamlit
