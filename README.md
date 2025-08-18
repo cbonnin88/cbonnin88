@@ -9,11 +9,9 @@ Cloud Platforms: Google Cloud Platform (BigQuery, Cloud Storage, Dataflow)
 
 Data Warehousing: Google BigQuery, Snowflake
 
-ETL & Data Pipelines:dbt
-
 Programming & Querying: Python (Pandas, NumPy, Polars,Plotly), Go
 
-Data Visualization: Tableau, Looker
+Data Visualization: Looker
 
 Databases: PostgreSQL, MySQL
 
