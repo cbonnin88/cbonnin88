@@ -75,9 +75,7 @@ Technologies Used: Python(Polars), BigQuery, Google Cloud Platform, Looker Studi
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
-Deepening my knowledge of streaming data processing with Apache Airflow and LookerML.
-
-Exploring advanced features in dbt for more efficient data modeling.
+Deepening my knowledge of Machine Learning for HR.
 
 Getting certified as a Google Cloud Data Analyst and Cloud Data Engineer.
 
@@ -86,11 +84,11 @@ Looking ahead, I am excited to dive into these areas:
 
 Machine Learning Engineering: Building and deploying machine learning models at scale.
 
-Artificial Intelligence: Learning how to (ethnically) use and master AI
+Artificial Intelligence: Learning how to (ethnically) use and master AI for HR
 
 Lakehouse Architecture: Understanding and implementing modern data architectures with technologies like Databricks and Delta Lake.
 
-Cloud Computing: With Google Cloud Platform and AWS
+Cloud Computing: With Google Cloud Platform
 
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
