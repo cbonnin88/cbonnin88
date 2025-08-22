@@ -44,16 +44,23 @@ Description: Extracting Insights from the NHS prescription database to understan
 
 Technologies Used: Go, Python(Pandas & Plotly), BigQuery, LookerStudio, Google Cloud Platform, Firebase Studio (for coding in Go).
 
-### **👩🏼‍🏭 Project 5: People Analytics (*in progress*)**
+### **👷‍♀️ Project 5: [HireSight: AI-Powered Resume & Job Description Matcher](https://github.com/cbonnin88/Talent-Analysis)**
+
+Description: HireSight is an AI-powered tool that uses NLP to instantly score the match between a resume and a job description
+
+Technologies Used: Streamlit, Python, Scikit-learn, spaCy, PDF processing: PyMuPDF(fitz)
+
+### **👩🏼‍🏭 Project 6: People Analytics (*in progress*)**
 
 Description: Focusing on employee income insights and attrition prediction.
 
 Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learning(Linear Regression, classification), Google Cloud Platform, Streamlit, Looker Studio.
 
-### **💶 Project 6: Compensation Analysis and Income Prediction (*in progress*)**
+### **💶 Project 7: Compensation Analysis and Income Prediction (*in progress*)**
 Description: The goal is to analyze synthetic employee compensation data to uncover insights, build predictive models, and present the findings.
 
 Technologies Used : Google Cloud Platform, Python(Polars, Plotly), BigQuery, BigQueryML, Looker Studio, Machine Learning(Linear Regression, classification), Docker, Streamlit
+
 
 ## **🚀 My Mini Projects**
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
