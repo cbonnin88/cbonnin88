@@ -87,7 +87,7 @@ I believe in continuous learning and am always looking to expand my skill set. C
 
 Deepening my knowledge of Machine Learning for HR.
 
-Getting certified as a Google Cloud Data Analyst and Cloud Data Engineer.
+Getting certified as a Google Cloud Data Analyst and an HR Machine Learning Engineer.
 
 ### **💡 What I Want to Learn in the Future**
 Looking ahead, I am excited to dive into these areas:
