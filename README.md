@@ -9,7 +9,7 @@ Cloud Platforms: Google Cloud Platform (BigQuery, Cloud Storage, Dataflow)
 
 Data Warehousing: Google BigQuery, Snowflake
 
-Programming & Querying: Python (Pandas, NumPy, Polars,Plotly), Go
+Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
 Data Visualization: Looker
 
