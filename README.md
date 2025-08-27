@@ -103,7 +103,7 @@ Cloud Computing: With Google Cloud Platform
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
 
-Take a look at my CV : [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/50ac13b359e32388d8bc4094d40c5f3c9d591cb7/CVBONNIN-DA-FR.pdf)
+Take a look at my CV : [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/50ac13b359e32388d8bc4094d40c5f3c9d591cb7/CVBONNIN-HR.pdf)
 
 LinkedIn: [**Christopher Bonnin**](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
 
