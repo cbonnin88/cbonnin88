@@ -30,19 +30,19 @@ Technologies Used: Python, Pandas, PostgreSQL, Tableau.
 
 Description: SoundStream, a music streaming app, analyzes different product areas (user retention, Business Scenarios, and understanding user actions).
 
-Technologies Used: Google Sheets, BigQuery, Python(Pandas, Plotly), Amplitude (Product Analysis), Google Cloud Platform, Looker Studio.
+Technologies Used: Google Sheets, BigQuery, Python(Pandas, Plotly), Amplitude (Product Analysis), Google Cloud Platform, [Looker Studio](https://lookerstudio.google.com/s/ksnT3jxN7KY).
 
 ### **👩🏾‍🚀 Project 3: [Starfield Industries](https://github.com/cbonnin88/Starfield-Industries)**
 
 Description: Providing actionable insights into employee demographics, performance, and compensation.
 
-Technologies Used: Google Sheets, PostgreSQL, Python(Polars, Plotly), Looker Studio.
+Technologies Used: Google Sheets, PostgreSQL, Python(Polars, Plotly), [Looker Studio](https://lookerstudio.google.com/s/opQonLcg2CE).
 
 ### **🏥 Project 4: [NHS Prescriptions](https://github.com/cbonnin88/NHS-Prescriptions)**
 
 Description: Extracting Insights from the NHS prescription database to understand the most used.
 
-Technologies Used: Go, Python(Pandas & Plotly), BigQuery, LookerStudio, Google Cloud Platform, Firebase Studio (for coding in Go).
+Technologies Used: Go, Python(Pandas & Plotly), BigQuery,[Looker Studio](https://lookerstudio.google.com/s/o1khC4UagPY), Google Cloud Platform, Firebase Studio (for coding in Go).
 
 ### **👷‍♀️ Project 5: [HireSight: AI-Powered Resume & Job Description Matcher](https://github.com/cbonnin88/Talent-Analysis)**
 
@@ -80,7 +80,7 @@ Technologies Used: Python(Polars), BigQuery, Google Cloud Platform, Looker Studi
 #### **💶 Mini-Project 3: [Cloud Compensation Analysis](https://github.com/cbonnin88/Compensation_Analysis)**
 Description: The goal was to design, build, and deploy a comprehensive, data-driven system for salary benchmarking and analysis, simulating the end-to-end workflow of a Cloud Compensation Analyst.
 
-Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), Looker Studio, Streamlit
+Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly),[Looker Studio](https://lookerstudio.google.com/s/hkMhiaYZt1U) Streamlit
 
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
