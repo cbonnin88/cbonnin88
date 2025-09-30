@@ -50,7 +50,7 @@ Description: HireSight is an AI-powered tool that uses NLP to instantly score th
 
 Technologies Used: Streamlit, Python, Scikit-learn, spaCy, PDF processing: PyMuPDF(fitz)
 
-### **👩🏼‍🏭 Project 6: People Analytics (*in progress*)**
+### **👩🏼‍🏭 Project 6: [People Analytics - ConnectSphere](https://github.com/cbonnin88/people-analytics)**
 
 Description: Focusing on employee income insights and attrition prediction.
 
