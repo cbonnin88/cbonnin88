@@ -1,4 +1,4 @@
-# **👋 Hi there, I'm Chris, a People Analyst specializing in Google Cloud Platform **
+# 👋 Hi there, I'm Chris, a People Analyst specializing in Google Cloud Platform
 
 I am a passionate and detail-oriented up-and-coming Cloud People Analyst with a strong foundation in transforming complex datasets into actionable insights. My expertise lies in leveraging cloud technologies to build robust data pipelines, perform in-depth analysis, and create compelling visualizations that drive business decisions. I am dedicated to uncovering the stories hidden within data and am always eager to learn and apply new technologies to solve challenging problems. I specialize in **Talent Acquisition** and **HR Analytics (People Analytics)**, utilizing cloud technology (GCP).
 
