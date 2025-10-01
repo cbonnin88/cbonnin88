@@ -54,7 +54,7 @@ Technologies Used: Streamlit, Python, Scikit-learn, spaCy, PDF processing: PyMuP
 
 Description: Focusing on employee income insights and attrition prediction.
 
-Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learning(Linear Regression, classification), Google Cloud Platform, Streamlit, Looker Studio.
+Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learning(Linear Regression, classification), Google Cloud Platform, Streamlit, [Looker Studio](https://lookerstudio.google.com/reporting/6b025333-dbf2-4624-b178-053317cb4242/page/3KEZF)
 
 ### **💶 Project 7: People Analytics Engineer (*in progress*)**
 Description: The goal is to analyze synthetic employee compensation data to uncover insights, build predictive models, and present the findings.
