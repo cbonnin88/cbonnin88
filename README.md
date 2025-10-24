@@ -82,7 +82,7 @@ Description: The goal was to design, build, and deploy a comprehensive, data-dri
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly),[Looker Studio](https://lookerstudio.google.com/s/hkMhiaYZt1U) Streamlit
 
-#### ** Mini-Project 4: Project Equilibrium
+#### **Mini-Project 4: Project Equilibrium
 Description: The project covers the entire data lifecycle: from synthetic data generation and cloud ingestion to advanced SQL analysis, predictive modeling, and deployment as an interactive web application.
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), Looker Studio, Streamlit
