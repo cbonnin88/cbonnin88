@@ -71,7 +71,7 @@ Description: A Data Visualization that gives an overview of Product Analyst Jobs
 
 Technologies Used: Python(Pandas), Looker Studio.
 
-#### **💶 Mini-Project 3: [Cloud Compensation Analysis](https://github.com/cbonnin88/Compensation_Analysis)**
+#### **💶 Mini-Project 2: [Cloud Compensation Analysis](https://github.com/cbonnin88/Compensation_Analysis)**
 Description: The goal was to design, build, and deploy a comprehensive, data-driven system for salary benchmarking and analysis, simulating the end-to-end workflow of a Cloud Compensation Analyst.
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly),[Looker Studio](https://lookerstudio.google.com/s/hkMhiaYZt1U) Streamlit
