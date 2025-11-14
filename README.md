@@ -81,7 +81,7 @@ Description: The project covers the entire data lifecycle: from synthetic data g
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/d804b1c5-5939-4aa2-8496-67759ea93c13), Streamlit
 
-### **Mini-Project 4: [InnovateNext](https://github.com/cbonnin88/InnovateNext-HR_Project/tree/main)**
+#### **Mini-Project 4: [InnovateNext](https://github.com/cbonnin88/InnovateNext-HR_Project/tree/main)**
 Description: he project follows a full data lifecycle: starting from raw, messy CSVs, it moves through data cleaning, exploratory data analysis (EDA), advanced SQL querying, predictive machine learning, and concludes with an interactive executive dashboard.
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/s/ntmDRoRUp6g), BigQueryML, Scikit-Learn
