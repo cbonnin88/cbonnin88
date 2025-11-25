@@ -13,6 +13,8 @@ Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
 Data Visualization: Looker
 
+Product Analytics: Amplitude
+
 Databases: PostgreSQL, MySQL
 
 Version Control: Git & GitHub
