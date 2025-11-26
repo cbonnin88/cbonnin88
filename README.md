@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Chris, a People Analyst specializing in Google Cloud Platform
+# 👋 Hi there, I'm Chris, a Product Analyst specializing in Google Cloud Platform
 
-I am a passionate and detail-oriented up-and-coming People Analyst with a strong foundation in transforming complex datasets into actionable insights. My expertise lies in leveraging cloud technologies to build robust data pipelines, perform in-depth analysis, and create compelling visualizations that drive business decisions. I am dedicated to uncovering the stories hidden within data and am always eager to learn and apply new technologies to solve challenging problems. I specialize in **Talent Acquisition**,**Compensation & Benefits** and **HR Analytics (People Analytics)**, utilizing cloud technology (GCP).
+I am a passionate and detail-oriented up-and-coming People Analyst with a strong foundation in transforming complex datasets into actionable insights. My expertise lies in leveraging cloud technologies to build robust data pipelines, perform in-depth analysis, and create compelling visualizations that drive business decisions. I am dedicated to uncovering the stories hidden within data and am always eager to learn and apply new technologies to solve challenging problems. I specialize in **Product Analytics** using Google Cloud Plateform
 
 ## **🧰 My Tech Stack**
 Here are some of the key technologies and tools I work with:
@@ -14,6 +14,8 @@ Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 Data Visualization: Looker
 
 Product Analytics: Amplitude
+
+Product Management: Roadmap Strategy, User Stories, Backlog Management, A/B Testing, Discovery.
 
 Databases: PostgreSQL, MySQL
 
@@ -58,8 +60,8 @@ Description: Focusing on employee income insights and attrition prediction.
 
 Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learning(Linear Regression, classification), Google Cloud Platform, Streamlit, [Looker Studio](https://lookerstudio.google.com/reporting/6b025333-dbf2-4624-b178-053317cb4242/page/3KEZF)
 
-### **💶 Project 7: Talent Analytics (*in progress*)**
-Description: The goal is to analyze synthetic employee compensation data to uncover insights, build predictive models, and present the findings.
+### **💶 Project 7: Product Analytics  (*in progress*)**
+Description: The goal is to analyze churn rates to uncover insights, build predictive models, and present the findings.
 
 Technologies Used : Snowflake, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), Looker Studio, Reflex, BigQuery
 
