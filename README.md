@@ -102,16 +102,16 @@ Looking ahead, I am excited to dive into these areas:
 
 Machine Learning Engineering: Building and deploying machine learning models at scale.
 
-Artificial Intelligence: Learning how to (ethnically) use and master AI for HR
+Artificial Intelligence: Learning how to (ethnically) use and master AI for Product 
 
-Lakehouse Architecture: Understanding and implementing modern data architectures with technologies like Databricks and Delta Lake.
+Product Management: Learning all I can to build better products using data
 
 Cloud Computing: With Google Cloud Platform
 
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
 
-Take a look at my CV : [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/main/CVBONNIN-HR.pdf)
+Take a look at my CV : [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/main/PA-FR-CVBONNIN.pdf)
 
 LinkedIn: [**Christopher Bonnin**](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
 
