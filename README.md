@@ -93,9 +93,9 @@ Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Lo
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
-Deepening my knowledge of Machine Learning for HR.
+Deepening my knowledge of Machine Learning for Product.
 
-Getting certified as a Google Cloud Data Analyst and an HR Machine Learning Engineer.
+Getting certified as a Product Data Analyst and a Product-Focused Data Engineer.
 
 ### **💡 What I Want to Learn in the Future**
 Looking ahead, I am excited to dive into these areas:
