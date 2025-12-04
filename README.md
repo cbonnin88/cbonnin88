@@ -63,7 +63,7 @@ Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learn
 ### **💶 Project 7: Product Analytics  (*in progress*)**
 Description: The goal is to analyze churn rates to uncover insights, build predictive models, and present the findings.
 
-Technologies Used : Snowflake, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), Looker Studio, Reflex, BigQuery
+Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), Looker Studio, Streamlit, BigQuery
 
 
 ## **🚀 My Mini Projects**
