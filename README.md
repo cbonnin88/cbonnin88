@@ -15,9 +15,9 @@ Data Visualization: Looker
 
 Product Analytics: Amplitude
 
-Product Management: Roadmap Strategy, User Stories, Backlog Management, A/B Testing, Discovery.
+Product Management: Roadmap Strategy, User Stories, Backlog Management, A/B Testing, Discovery, Delivery.
 
-Databases: PostgreSQL, MySQL
+Databases: PostgreSQL
 
 Version Control: Git & GitHub
 
@@ -63,7 +63,7 @@ Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learn
 ### **💶 Project 7: Product Analytics  (*in progress*)**
 Description: The goal is to analyze churn rates to uncover insights, build predictive models, and present the findings.
 
-Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), Looker Studio, Streamlit, BigQuery
+Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), Looker Studio, Streamlit
 
 
 ## **🚀 My Mini Projects**
