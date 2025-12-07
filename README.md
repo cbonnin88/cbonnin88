@@ -60,7 +60,7 @@ Description: Focusing on employee income insights and attrition prediction.
 
 Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learning(Linear Regression, classification), Google Cloud Platform, Streamlit, [Looker Studio](https://lookerstudio.google.com/reporting/6b025333-dbf2-4624-b178-053317cb4242/page/3KEZF)
 
-### **💶 Project 7: [MediTrack](https://github.com/cbonnin88/meditrack)**
+### **🏥 Project 7: [MediTrack](https://github.com/cbonnin88/meditrack)**
 Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit
