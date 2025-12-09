@@ -63,7 +63,7 @@ Technologies Used: BigQuery, Python(Polars, Plotly, Scikit-Learn), Machine Learn
 ### **🏥 Project 7: [MediTrack](https://github.com/cbonnin88/meditrack)**
 Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
 
-Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit
+Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
 
 ## **🚀 My Mini Projects**
