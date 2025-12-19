@@ -65,6 +65,11 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
+### ** Project 8: RescueBites (in progress)**
+Description: RescueBites is a two-sided marketplace connecting hungry users with local stores (bakeries, supermarkets) selling surplus food in "Magic Bags" at a discount
+
+Technologies Used: Python(Polars, Plotly), SnowFlake, Machine Learning(Scikit-Learn),Amplitude (Product Analytics), Looker Studio, Streamlit
+
 
 ## **🚀 My Mini Projects**
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
