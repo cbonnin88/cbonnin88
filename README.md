@@ -13,7 +13,7 @@ Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
 Data Visualization: Looker
 
-Product Analytics: Amplitude
+Product Analytics: Amplitude, MixPanel, Google Analytics
 
 Product Management: Roadmap Strategy, User Stories, Backlog Management, A/B Testing, Discovery, Delivery.
 
