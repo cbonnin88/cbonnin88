@@ -91,9 +91,14 @@ Description: The project covers the entire data lifecycle: from synthetic data g
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/d804b1c5-5939-4aa2-8496-67759ea93c13), Streamlit
 
 #### **Mini-Project 4: [InnovateNext](https://github.com/cbonnin88/InnovateNext-HR_Project/tree/main)**
-Description: he project follows a full data lifecycle: starting from raw, messy CSVs, it moves through data cleaning, exploratory data analysis (EDA), advanced SQL querying, predictive machine learning, and concludes with an interactive executive dashboard.
+Description: The project follows a full data lifecycle: Starting from raw, messy CSVs, it moves through data cleaning, exploratory data analysis (EDA), advanced SQL querying, predictive machine learning, and concludes with an interactive executive dashboard.
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/s/ntmDRoRUp6g), BigQueryML, Scikit-Learn
+
+#### **Mini-Project 5:** [The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
+Description: A full-stack product analytics project analyzing sales trends, customer retention, and product profitability for a D2C coffee brand.
+
+Technologies Used: BigQuery, Python(Pandas + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/b9c1f35d-6d66-466f-83ae-ac48aa6ef287), Scikit-Learn, Google Sheets
 
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
