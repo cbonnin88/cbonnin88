@@ -100,7 +100,7 @@ Description: A full-stack product analytics project analyzing sales trends, cust
 
 Technologies Used: BigQuery, Python(Pandas + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/b9c1f35d-6d66-466f-83ae-ac48aa6ef287), Scikit-Learn, Google Sheets
 
-#### **Mini-Project 6: [StreamZone TV]()**
+#### **Mini-Project 6: [StreamZone TV](https://github.com/cbonnin88/StreamZone-TV)**
 Description: Building a model to identify free users who show high propensity to subscribe so we can target only them with a "nudge" (e.g., a specific notification or a small discount) to convert them
 
 Technologies Used : Google Colab, Python(Pandas, Polars, Plotly), Scikit-Learn
