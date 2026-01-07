@@ -95,7 +95,7 @@ Description: The project follows a full data lifecycle: Starting from raw, messy
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/s/ntmDRoRUp6g), BigQueryML, Scikit-Learn
 
-#### **Mini-Project 5:**[The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
+#### **Mini-Project 5:[The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
 Description: A full-stack product analytics project analyzing sales trends, customer retention, and product profitability for a D2C coffee brand.
 
 Technologies Used: BigQuery, Python(Pandas + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/b9c1f35d-6d66-466f-83ae-ac48aa6ef287), Scikit-Learn, Google Sheets
