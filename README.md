@@ -65,10 +65,10 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
-### ** Project 8: RescueBites (in progress)**
-Description: RescueBites is a two-sided marketplace connecting hungry users with local stores (bakeries, supermarkets) selling surplus food in "Magic Bags" at a discount
+### ** Project 8: VoyageConnect (in progress)**
+Description: VoyageConnect, France's growing multi-modal travel app (Trains, Buses, Metro) that enables customer to plan travels, buy tickets and reservation on all in one place.
 
-Technologies Used: Python(Polars, Plotly), SnowFlake, Machine Learning(Scikit-Learn),Amplitude (Product Analytics), Looker Studio, Streamlit
+Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Amplitude (Product Analytics), Looker Studio, Streamlit, dbt
 
 
 ## **🚀 My Mini Projects**
