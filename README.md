@@ -105,6 +105,11 @@ Description: Building a model to identify free users who show high propensity to
 
 Technologies Used : Google Colab, Python(Pandas, Polars, Plotly), Scikit-Learn
 
+#### **Mini-Project 7: [TheLook Checkout Optimization](https://github.com/cbonnin88/TheLook/tree/main)**
+Description: Optimizing the checkout funnel for "The Look", a fictional eCommerce platform.
+
+Technologies Used: Google Colab, Python(Pandas, Polars, Plotly), BigQuery, Looker Studio, Amplitude
+
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
