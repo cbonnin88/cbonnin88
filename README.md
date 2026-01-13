@@ -65,10 +65,10 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
-### ** Project 8: VoyageConnect (in progress)**
-Description: VoyageConnect, France's growing multi-modal travel app (Trains, Buses, Metro) that enables customer to plan travels, buy tickets and reservation on all in one place.
+### ** Project 8: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
+Description: GreenBox is a fictional sustainable subscription service.
 
-Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Amplitude (Product Analytics), Looker Studio, Streamlit, dbt
+Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
 
 
 ## **🚀 My Mini Projects**
