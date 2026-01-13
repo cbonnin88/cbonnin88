@@ -65,7 +65,7 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
-### ** Project 8: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
+### **Project 8: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
 Description: GreenBox is a fictional sustainable subscription service.
 
 Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
