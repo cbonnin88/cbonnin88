@@ -70,7 +70,7 @@ Description: GreenBox is a fictional sustainable subscription service.
 
 Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
 
-### **Project 9: [RailFlow: Analytic Engineering](https://github.com/cbonnin88/RailFlow)**
+### **Project 9: [RailFlow: Product Analytic Engineering](https://github.com/cbonnin88/RailFlow)**
 Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
