@@ -68,7 +68,6 @@ Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, L
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
 
 #### **🖥️ Mini-Project 1: [Product Analyst Jobs](https://lookerstudio.google.com/reporting/f91cb50b-a4cb-42bb-9ab5-229347802655)**
-
 Description: A Data Visualization that gives an overview of Product Analyst Jobs in the World.
 
 Technologies Used: Python(Pandas), Looker Studio.
@@ -78,27 +77,17 @@ Description: The goal was to design, build, and deploy a comprehensive, data-dri
 
 Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly),[Looker Studio](https://lookerstudio.google.com/s/hkMhiaYZt1U) Streamlit
 
-#### **Mini-Project 3: [Project Equilibrium](https://github.com/cbonnin88/Equilibrium)**
-Description: The project covers the entire data lifecycle: from synthetic data generation and cloud ingestion to advanced SQL analysis, predictive modeling, and deployment as an interactive web application.
-
-Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/d804b1c5-5939-4aa2-8496-67759ea93c13), Streamlit
-
-#### **Mini-Project 4: [InnovateNext](https://github.com/cbonnin88/InnovateNext-HR_Project/tree/main)**
-Description: The project follows a full data lifecycle: Starting from raw, messy CSVs, it moves through data cleaning, exploratory data analysis (EDA), advanced SQL querying, predictive machine learning, and concludes with an interactive executive dashboard.
-
-Technologies Used: Google Cloud Platform, BigQuery, Python(Polars + Plotly), [Looker Studio](https://lookerstudio.google.com/s/ntmDRoRUp6g), BigQueryML, Scikit-Learn
-
-#### **Mini-Project 5: [The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
+#### **Mini-Project 3: [The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
 Description: A full-stack product analytics project analyzing sales trends, customer retention, and product profitability for a D2C coffee brand.
 
 Technologies Used: BigQuery, Python(Pandas + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/b9c1f35d-6d66-466f-83ae-ac48aa6ef287), Scikit-Learn, Google Sheets
 
-#### **Mini-Project 6: [StreamZone TV](https://github.com/cbonnin88/StreamZone-TV)**
+#### **Mini-Project 4: [StreamZone TV](https://github.com/cbonnin88/StreamZone-TV)**
 Description: Building a model to identify free users who show high propensity to subscribe so we can target only them with a "nudge" (e.g., a specific notification or a small discount) to convert them
 
 Technologies Used : Google Colab, Python(Pandas, Polars, Plotly), Scikit-Learn
 
-#### **Mini-Project 7: [TheLook Checkout Optimization](https://github.com/cbonnin88/TheLook/tree/main)**
+#### **Mini-Project 5: [TheLook Checkout Optimization](https://github.com/cbonnin88/TheLook/tree/main)**
 Description: Optimizing the checkout funnel for "The Look", a fictional eCommerce platform.
 
 Technologies Used: Google Colab, Python(Pandas, Polars, Plotly), BigQuery, Looker Studio, Amplitude
