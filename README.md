@@ -63,6 +63,11 @@ Description: RailFlow is a mobile app allowing users to search for train routes,
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
+### **Project 8: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
+Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
+
+Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude, Product Analytics
+
 
 ## **🚀 My Mini Projects**
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
