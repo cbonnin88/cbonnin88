@@ -93,7 +93,7 @@ Description: Optimizing the checkout funnel for "The Look", a fictional eCommerc
 
 Technologies Used: Google Colab, Python(Pandas, Polars, Plotly), BigQuery, Looker Studio, Amplitude
 
-### **Mini-Project 6: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
+#### **Mini-Project 6: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
 Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
 
 Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude, Product Analytics
