@@ -63,10 +63,6 @@ Description: RailFlow is a mobile app allowing users to search for train routes,
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
-### **Project 8: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
-Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
-
-Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude, Product Analytics
 
 
 ## **🚀 My Mini Projects**
@@ -96,6 +92,12 @@ Technologies Used : Google Colab, Python(Pandas, Polars, Plotly), Scikit-Learn
 Description: Optimizing the checkout funnel for "The Look", a fictional eCommerce platform.
 
 Technologies Used: Google Colab, Python(Pandas, Polars, Plotly), BigQuery, Looker Studio, Amplitude
+
+### **Mini-Project 6: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
+Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
+
+Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude, Product Analytics
+
 
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
