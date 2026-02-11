@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Chris, a Product Analyst specializing in Google Cloud Platform
 
-I am a passionate and detail-oriented Product Analyst with a strong foundation in transforming complex datasets into actionable insights. My expertise lies in leveraging cloud technologies to build robust data pipelines, perform in-depth analysis, and create compelling visualizations that drive business decisions. I am dedicated to uncovering the stories hidden within data and am always eager to learn and apply new technologies to solve challenging problems. I specialize in **Product Analytics**, **Product Management**, **Marketing Analytics,Analytics Engineering** using Google Cloud Plateform
+I am a passionate and detail-oriented Product Analyst with a strong foundation in transforming complex datasets into actionable insights. My expertise lies in leveraging cloud technologies to build robust data pipelines, perform in-depth analysis, and create compelling visualizations that drive business decisions. I am dedicated to uncovering the stories hidden within data and am always eager to learn and apply new technologies to solve challenging problems. I specialize in **Product Analytics**, **Data Analytics**, **Cloud Services,Analytics Engineering** using **Google Cloud Platform**
 
 ## **🧰 My Tech Stack**
 Here are some of the key technologies and tools I work with:
