@@ -88,6 +88,11 @@ Description: VifStream is a streaming service platform that allows users to sear
 
 Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude, Product Analytics
 
+#### **Mini-Project 5: [Prophet Commerce: Product Analytics](https://github.com/cbonnin88/E-commerce-Retention-Engine)**
+Description: A full-stack data product designed to move beyond descriptive analytics into the realm of Predictive Intelligence
+
+Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Google Sheets
+
 
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
