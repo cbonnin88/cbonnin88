@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Chris, an Analytics Engineer specializing in Google Cloud Platform
 
-I am a passionate and detail-oriented Product Analyst with a strong foundation in transforming complex datasets into actionable insights. My expertise lies in leveraging cloud technologies to build robust data pipelines, perform in-depth analysis, and create compelling visualizations that drive business decisions. I am dedicated to uncovering the stories hidden within data and am always eager to learn and apply new technologies to solve challenging problems. I specialize in **Product Analytics**, **Data Analytics**, **Cloud Services,Analytics Engineering** using **Google Cloud Platform**
+I'm an Analytics Engineer specializing in the GCP ecosystem and scalable data modeling. I bridge the gap between raw data and business logic by building robust, version-controlled pipelines and high-performance BigQuery environments. I’m focused on transforming messy datasets into a "single source of truth" that empowers Product and Data teams to make high-stakes decisions with confidence. I have a passion for Product-focused Analytic Engineering as
 
 ## **🧰 My Tech Stack**
 Here are some of the key technologies and tools I work with:
