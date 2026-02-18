@@ -9,13 +9,13 @@ Cloud Platforms: Google Cloud Platform (BigQuery, Cloud Storage, Dataflow)
 
 Data Warehousing: Google BigQuery, Snowflake
 
+Tools: DBT
+
 Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
 Data Visualization: Looker
 
 Product Analytics: Amplitude, MixPanel, Google Analytics
-
-Product Management: Roadmap Strategy, User Stories, Backlog Management, A/B Testing, Discovery, Delivery.
 
 Databases: PostgreSQL
 
