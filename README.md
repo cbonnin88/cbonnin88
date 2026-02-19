@@ -22,76 +22,79 @@ Databases: PostgreSQL
 Version Control: Git & GitHub
 
 
-## **🚀 My GitHub Projects**
+## **🚀 Analytic Engineer Projects**
 In this section, you'll find a selection of projects that demonstrate my skills and experience. Each project includes a detailed description of the problem, the solution, and the technologies used.
 
-### **📊 Project 1: [Data Analyst Jobs](https://github.com/cbonnin88/Data-Analyst-Jobs)**
-Description: Analyzing Data-based Jobs as well as Data Jobs based in France.
+### **🚄 Project 1: [RailFlow: Product Analytic Engineering](https://github.com/cbonnin88/RailFlow)**
+Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
 
-Technologies Used: Python, Pandas, PostgreSQL, Tableau.
+Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
-### **🎧 Project 2: [SoundStream](https://github.com/cbonnin88/Soundstream)**
+#### **🎞 Project 2: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
+Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
 
-Description: SoundStream, a music streaming app, analyzes different product areas (user retention, Business Scenarios, and understanding user actions).
 
-Technologies Used: Google Sheets, BigQuery, Python(Pandas, Plotly), Amplitude (Product Analysis), Google Cloud Platform, [Looker Studio](https://lookerstudio.google.com/s/ksnT3jxN7KY).
 
-### **🏥 Project 3: [NHS Prescriptions](https://github.com/cbonnin88/NHS-Prescriptions)**
+
+
+## **🚀 Product/Data Analytics Projects**
+In this section, you have smaller projects that focuses on certain skills in Data Analytics.
+
+### **☕️ Project 1: [The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
+Description: A full-stack product analytics project analyzing sales trends, customer retention, and product profitability for a D2C coffee brand.
+
+Technologies Used: BigQuery, Python(Pandas + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/b9c1f35d-6d66-466f-83ae-ac48aa6ef287), Scikit-Learn, Google Sheets
+
+
+### **📺 Project 2: [StreamZone TV](https://github.com/cbonnin88/StreamZone-TV)**
+Description: Building a model to identify free users who show high propensity to subscribe so we can target only them with a "nudge" (e.g., a specific notification or a small discount) to convert them
+
+Technologies Used : Google Colab, Python(Pandas, Polars, Plotly), Scikit-Learn
+
+
+### **💳 Project 3: [TheLook Checkout Optimization](https://github.com/cbonnin88/TheLook/tree/main)**
+Description: Optimizing the checkout funnel for "The Look", a fictional eCommerce platform.
+
+Technologies Used: Google Colab, Python(Pandas, Polars, Plotly), BigQuery, Looker Studio, Amplitude
+
+
+### **💶 Project 4: [Prophet Commerce: Product Analytics](https://github.com/cbonnin88/E-commerce-Retention-Engine)**
+Description: A full-stack data product designed to move beyond descriptive analytics into the realm of Predictive Intelligence
+
+Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Google Sheets
+
+
+### **📱 Project 5: [MediTrack](https://github.com/cbonnin88/meditrack)**
+Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
+
+Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
+
+
+### **🏥 Project 6: [NHS Prescriptions](https://github.com/cbonnin88/NHS-Prescriptions)**
 
 Description: Extracting Insights from the NHS prescription database to understand the most used.
 
 Technologies Used: Go, Python(Pandas & Plotly), BigQuery,[Looker Studio](https://lookerstudio.google.com/s/o1khC4UagPY), Google Cloud Platform, Firebase Studio (for coding in Go).
 
-### **👷‍♀️ Project 4: [HireSight: AI-Powered Resume & Job Description Matcher](https://github.com/cbonnin88/Talent-Analysis)**
 
-Description: HireSight is an AI-powered tool that uses NLP to instantly score the match between a resume and a job description
+### **🎧 Project 7: [SoundStream](https://github.com/cbonnin88/Soundstream)**
 
-Technologies Used: Streamlit, Python, Scikit-learn, spaCy, PDF processing: PyMuPDF(fitz)
+Description: SoundStream, a music streaming app, analyzes different product areas (user retention, Business Scenarios, and understanding user actions).
 
-### **🏥 Project 5: [MediTrack](https://github.com/cbonnin88/meditrack)**
-Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
+Technologies Used: Google Sheets, BigQuery, Python(Pandas, Plotly), Amplitude (Product Analysis), Google Cloud Platform, [Looker Studio](https://lookerstudio.google.com/s/ksnT3jxN7KY).
 
-Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
-### **Project 6: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
+### **📊 Project 8: [Data Analyst Jobs](https://github.com/cbonnin88/Data-Analyst-Jobs)**
+Description: Analyzing Data-based Jobs as well as Data Jobs based in France.
+
+Technologies Used: Python, Pandas, PostgreSQL, Tableau.
+
+
+### **🍀 Project 9: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
 Description: GreenBox is a fictional sustainable subscription service.
 
 Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
 
-### **Project 7: [RailFlow: Product Analytic Engineering](https://github.com/cbonnin88/RailFlow)**
-Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
-
-Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
-
-
-
-## **🚀 My Mini Projects**
-In this section, you have smaller projects that focuses on certain skills in Data Analytics.
-
-#### **Mini-Project 1: [The Coffee Corner](https://github.com/cbonnin88/The_Coffee_Corner)**
-Description: A full-stack product analytics project analyzing sales trends, customer retention, and product profitability for a D2C coffee brand.
-
-Technologies Used: BigQuery, Python(Pandas + Plotly), [Looker Studio](https://lookerstudio.google.com/reporting/b9c1f35d-6d66-466f-83ae-ac48aa6ef287), Scikit-Learn, Google Sheets
-
-#### **Mini-Project 2: [StreamZone TV](https://github.com/cbonnin88/StreamZone-TV)**
-Description: Building a model to identify free users who show high propensity to subscribe so we can target only them with a "nudge" (e.g., a specific notification or a small discount) to convert them
-
-Technologies Used : Google Colab, Python(Pandas, Polars, Plotly), Scikit-Learn
-
-#### **Mini-Project 3: [TheLook Checkout Optimization](https://github.com/cbonnin88/TheLook/tree/main)**
-Description: Optimizing the checkout funnel for "The Look", a fictional eCommerce platform.
-
-Technologies Used: Google Colab, Python(Pandas, Polars, Plotly), BigQuery, Looker Studio, Amplitude
-
-#### **Mini-Project 4: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
-Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
-
-Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude, Product Analytics
-
-#### **Mini-Project 5: [Prophet Commerce: Product Analytics](https://github.com/cbonnin88/E-commerce-Retention-Engine)**
-Description: A full-stack data product designed to move beyond descriptive analytics into the realm of Predictive Intelligence
-
-Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Google Sheets
 
 
 ## **🌱 What I'm Currently Learning**
