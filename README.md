@@ -9,7 +9,7 @@ Cloud Platforms: Google Cloud Platform (BigQuery, Cloud Storage, Dataflow)
 
 Data Warehousing: Google BigQuery, Snowflake
 
-Analytics Engineering: DBT, Airbyte, FiveTran, AirFlow
+Analytics Engineering: DBT, Airbyte, FiveTran
 
 Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
