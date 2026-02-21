@@ -33,6 +33,7 @@ Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, L
 ### **🎞 Project 2: [VifStream: Analytics Engineering](https://github.com/cbonnin88/VifStream)**
 Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
 
+Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
 
 
