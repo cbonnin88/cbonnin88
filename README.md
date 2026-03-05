@@ -13,7 +13,7 @@ Analytics Engineering: DBT, Airbyte, FiveTran
 
 Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
-Data Visualization: Looker
+Data Visualization: Looker, Tableau
 
 Product Analytics: Amplitude, MixPanel, Posthog
 
