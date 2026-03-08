@@ -17,7 +17,7 @@ Data Visualization: Looker, Tableau
 
 Product Analytics: Amplitude, MixPanel, Posthog
 
-Databases: PostgreSQL
+Data Platform: DataBricks
 
 Version Control: Git & GitHub
 
