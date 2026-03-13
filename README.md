@@ -110,9 +110,7 @@ Looking ahead, I am excited to dive into these areas:
 
 Machine Learning Engineering: Building and deploying machine learning models at scale.
 
-Artificial Intelligence: Learning how to (ethnically) use and master AI for Analytics Engineering
-
-Cloud Computing with Google Cloud Platform
+Data Engineering and Cloud Computing with Google Cloud Platform
 
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
