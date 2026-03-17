@@ -41,7 +41,7 @@ Technologies Used: Python(Polars, Pandas,Plotly), Snowflake, Scikit-Learn, DBT, 
 ## **🚀 Product/Data Analytics Projects**
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
 
-### **🚄 Project 1: [RailFlow: Product Analytic](https://github.com/cbonnin88/RailFlow)**
+### **🚄 Project 1: [RailFlow: Product Analytics](https://github.com/cbonnin88/RailFlow)**
 Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
