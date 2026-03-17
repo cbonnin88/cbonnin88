@@ -30,6 +30,11 @@ Description: EcoFlux is a GreenTech platform designed to optimize EV charging an
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Airbyte, Scikit-Learn, DBT, Looker Studio, Amplitude
 
+### **🪪 [Viridian Capital: People Analytic Engineering](https://github.com/cbonnin88/ViridianCapital_HR)**
+Description: Viridian Capital is a GreenTech Investment company with 12000+ employees across Western Europe
+
+Technologies Used: Python(Polars, Pandas,Plotly), Snowflake, Scikit-Learn, DBT, Streamlit,SQL
+
 
 
 
