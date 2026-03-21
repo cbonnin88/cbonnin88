@@ -35,6 +35,11 @@ Description: Viridian Capital is a GreenTech Investment company with 12000+ empl
 
 Technologies Used: Python(Polars, Pandas,Plotly), Snowflake, Scikit-Learn, DBT, Streamlit,SQL
 
+### **🪪 [Lumiere Capital Investments: Financial Analytic Engineering](https://github.com/cbonnin88/Lumiere-Capital)**
+Description: Luimere Capital Investment is an Investment company specializing in Green Investments and the GreenTech Market
+
+Technologies Used: Python(Polars,Plotly), Databricks, DBT, SQL, Apache Airflow
+
 
 
 
