@@ -69,20 +69,7 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
 
-### **🏥 Project 5: [NHS Prescriptions](https://github.com/cbonnin88/NHS-Prescriptions)**
-
-Description: Extracting Insights from the NHS prescription database to understand the most used.
-
-Technologies Used: Go, Python(Pandas & Plotly), BigQuery,[Looker Studio](https://lookerstudio.google.com/s/o1khC4UagPY), Google Cloud Platform, Firebase Studio (for coding in Go).
-
-
-### **📊 Project 6: [Data Analyst Jobs](https://github.com/cbonnin88/Data-Analyst-Jobs)**
-Description: Analyzing Data-based Jobs as well as Data Jobs based in France.
-
-Technologies Used: Python, Pandas, PostgreSQL, Tableau.
-
-
-### **🍀 Project 7: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
+### **🍀 Project 5: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
 Description: GreenBox is a fictional sustainable subscription service.
 
 Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
