@@ -57,19 +57,13 @@ Description: VifStream is a streaming service platform that allows users to sear
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
 
-### **💶 Project 3: [Prophet Commerce: Product Analytics](https://github.com/cbonnin88/E-commerce-Retention-Engine)**
-Description: A full-stack data product designed to move beyond descriptive analytics into the realm of Predictive Intelligence
-
-Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Google Sheets
-
-
-### **📱 Project 4: [MediTrack](https://github.com/cbonnin88/meditrack)**
+### **📱 Project 3: [MediTrack](https://github.com/cbonnin88/meditrack)**
 Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
 
-### **🍀 Project 5: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
+### **🍀 Project 4: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
 Description: GreenBox is a fictional sustainable subscription service.
 
 Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
