@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Chris, an Analytics Engineer specializing in Google Cloud Platform
 
-I'm an Analytics Engineer specializing in the GCP ecosystem and scalable data modeling. I bridge the gap between raw data and business logic by building robust, version-controlled pipelines and high-performance BigQuery environments. I’m focused on transforming messy datasets into a "single source of truth" that empowers teams to make high-stakes decisions with confidence. I have a passion for Product, Finance and HR-focused Analytic Engineering.
+I'm an Analytics Engineer specializing in the GCP ecosystem and scalable data modeling. I bridge the gap between raw data and business logic by building robust, version-controlled pipelines and high-performance BigQuery environments. I’m focused on transforming messy datasets into a "single source of truth" that empowers teams to make high-stakes decisions with confidence. I have a passion for **Product, Finance and HR-focused** Analytic Engineering.
 
 ## **🧰 My Tech Stack**
 Here are some of the key technologies and tools I work with:
@@ -51,22 +51,12 @@ Description: RailFlow is a mobile app allowing users to search for train routes,
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
-### **🎞 Project 2: [VifStream: Product Analytics](https://github.com/cbonnin88/VifStream)**
-Description: VifStream is a streaming service platform that allows users to search for and watch films and tv shows
 
-Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
-
-
-### **📱 Project 3: [MediTrack](https://github.com/cbonnin88/meditrack)**
+### **📱 Project 2: [MediTrack](https://github.com/cbonnin88/meditrack)**
 Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
-
-### **🍀 Project 4: [GreenBox Marketing Analytics: Full Stack Optimization](https://github.com/cbonnin88/GreenBox)**
-Description: GreenBox is a fictional sustainable subscription service.
-
-Technologies Used: Python(Polars, Plotly), BigQuery, Machine Learning(Scikit-Learn), Looker Studio
 
 
 
