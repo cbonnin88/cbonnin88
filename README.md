@@ -41,21 +41,26 @@ Description: Luimere Capital Investment is an Investment company specializing in
 Technologies Used: Python(Polars,Plotly), Databricks, DBT, SQL, Apache Airflow
 
 
-
-
-## **🚀 Product/Data Analytics Projects**
+## **🚀 Data Analytics Projects**
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
 
-### **🚄 Project 1: [RailFlow: Product Analytics](https://github.com/cbonnin88/RailFlow)**
+## Product Analytics
+### **🚄 [RailFlow: Product Analytics](https://github.com/cbonnin88/RailFlow)**
 Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
 
 
-### **📱 Project 2: [MediTrack](https://github.com/cbonnin88/meditrack)**
+### **📱 [MediTrack](https://github.com/cbonnin88/meditrack)**
 Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
+
+## People Analytics
+### ** [EcoVolt](https://github.com/cbonnin88/EcoVolt-HR)**
+Description: EcoVolt Renewables is a fictional Western European leader in the Green Energy sector.
+
+Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/922d6a87-46e6-4829-9e34-7fa58752302b), Streamlit
 
 
 
