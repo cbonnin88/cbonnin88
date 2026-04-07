@@ -57,7 +57,7 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
 ## People Analytics
-### ** [EcoVolt](https://github.com/cbonnin88/EcoVolt-HR)**
+### 💶 [EcoVolt](https://github.com/cbonnin88/EcoVolt-HR)
 Description: EcoVolt Renewables is a fictional Western European leader in the Green Energy sector.
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/922d6a87-46e6-4829-9e34-7fa58752302b), Streamlit
