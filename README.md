@@ -7,7 +7,7 @@ Here are some of the key technologies and tools I work with:
 
 Cloud Platforms: Google Cloud Platform (BigQuery, Cloud Storage, Dataflow)
 
-Data Warehousing: Google BigQuery, Snowflake
+Data Warehousing: Google BigQuery, Snowflake, DataBricks
 
 Analytics Engineering: DBT, Airbyte, FiveTran, Apache Airflow
 
@@ -16,8 +16,6 @@ Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 Data Visualization: Looker, Tableau
 
 Product Analytics: Amplitude, MixPanel, Posthog
-
-Data Platform: DataBricks
 
 Version Control: Git & GitHub
 
