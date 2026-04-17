@@ -60,6 +60,11 @@ Description: EcoVolt Renewables is a fictional Western European leader in the Gr
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/922d6a87-46e6-4829-9e34-7fa58752302b), Streamlit
 
+### 👩‍🏭 [LimeLight](https://github.com/cbonnin88/LimeLight)
+Description: EcoPulse Systems is a fictitious GreenTech company headquartered in France with 10,000 employees across 7 European countries. 
+
+Technologies Used : BigQuery, DBT, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://datastudio.google.com/reporting/bca689c0-dfe0-4913-81a2-515330bb12c9/page/TjAvF), Streamlit
+
 
 
 
