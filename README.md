@@ -46,7 +46,7 @@ In this section, you have smaller projects that focuses on certain skills in Dat
 ### **🚄 [RailFlow](https://github.com/cbonnin88/RailFlow)**
 Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
 
-Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, Looker Studio, Streamlit, Amplitude
+Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, [Looker Studio](https://datastudio.google.com/reporting/c87b2a73-0902-43b3-9ee3-318a72594e91/page/4JqlF), Streamlit, Amplitude
 
 
 ### **📱 [MediTrack](https://github.com/cbonnin88/meditrack)**
