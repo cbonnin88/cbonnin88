@@ -66,6 +66,15 @@ Description: EcoPulse Systems is a fictitious GreenTech company headquartered in
 Technologies Used : BigQuery, DBT, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://datastudio.google.com/reporting/bca689c0-dfe0-4913-81a2-515330bb12c9/page/TjAvF), Streamlit
 
 
+## **🚀 ETL Pipeline**
+In this section, you have smaller projects that focuses ETL and creating data pipelines.
+
+
+## **🚀 Exploratory Data Analysis**
+In this section, you have smaller projects that focuses on using Python and/or SQL for Data Analytics.
+
+
+
 
 
 ## **🌱 What I'm Currently Learning**
