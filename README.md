@@ -73,6 +73,15 @@ In this section, you have smaller projects that focuses ETL and creating data pi
 ## **🚀 Exploratory Data Analysis**
 In this section, you have smaller projects that focuses on using Python and/or SQL for Data Analytics.
 
+### **🔊 [SoundStream Music App](https://github.com/cbonnin88/SoundStream)**
+
+Description: SoundStream Data Product Manager Approach
+- High-Performance Product Analytics: Scaling Insights with Polars
+- Predictive User Modeling & A/B Testing for Subscription Products
+- Algorithmic Product Management: Segmenting 50k Users for Targeted Growth
+
+Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment
+
 
 
 
