@@ -97,7 +97,7 @@ I believe in continuous learning and am always looking to expand my skill set. C
 
 - Deepening my knowledge of Machine Learning for Product.
 - Certifications in Product Management
-- Getting certified as a Product Data Analyst and a Product-Focused Data Engineer.
+- Getting certified as a Product Data Analyst and a Product-Focused Analytic Engineer.
 
 ### **💡 What I Want to Learn in the Future**
 Looking ahead, I am excited to dive into these areas:
