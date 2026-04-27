@@ -71,7 +71,7 @@ In this section, you have smaller projects that focuses ETL and creating data pi
 ### **[Mes-Allocs.fr](https://github.com/cbonnin88/mes_allocs-ETL)**
 Description: An end-to-end project simulating a fintech benefit platform (Mes-Allocs).
 - Raw event generation
-- ELT to dbt modeling
+- ELT to dbt modeling using FiveTran and dbt.core
 - Machine learning for churn prediction
 - Streamlit application for Product Managers.
 
@@ -95,9 +95,9 @@ Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
-Deepening my knowledge of Machine Learning for Product.
-
-Getting certified as a Product Data Analyst and a Product-Focused Data Engineer.
+- Deepening my knowledge of Machine Learning for Product.
+- Certifications in Product Management
+- Getting certified as a Product Data Analyst and a Product-Focused Data Engineer.
 
 ### **💡 What I Want to Learn in the Future**
 Looking ahead, I am excited to dive into these areas:
