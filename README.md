@@ -68,7 +68,7 @@ Technologies Used : BigQuery, DBT, Python(Polars, Plotly), Machine Learning(Line
 
 ## **🚀 ETL Pipeline**
 In this section, you have smaller projects that focuses ETL and creating data pipelines.
-### **[Mes-Allocs.fr](https://github.com/cbonnin88/mes_allocs-ETL)
+### **[Mes-Allocs.fr](https://github.com/cbonnin88/mes_allocs-ETL)**
 Description: An end-to-end project simulating a fintech benefit platform (Mes-Allocs).
 - Raw event generation
 - ELT to dbt modeling
