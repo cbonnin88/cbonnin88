@@ -89,6 +89,18 @@ Description: SoundStream Data Product Manager Approach
 Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment
 
 
+### **🛒 [StatFlow](https://github.com/cbonnin88/StatFlow)**
+
+Description: StatFlow Analytics Engineering Approach
+This project demonstrates a production-grade automated experimentation pipeline designed to ingest live data and instantly calculate statistical significance for product decisions.
+
+- High-Performance Data Pipelines: Extracting live API data and scaling data transformations with Polars
+- Automated Statistical Testing: Validating conversion rates and continuous revenue metrics using SciPy & Statsmodels
+- Interactive Stakeholder Insights: Designing dynamic data visualizations to communicate experiment results clearly
+
+Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Analytics Engineering
+
+
 
 
 
