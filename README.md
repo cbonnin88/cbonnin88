@@ -98,7 +98,7 @@ This project demonstrates a production-grade automated experimentation pipeline 
 - Automated Statistical Testing: Validating conversion rates and continuous revenue metrics using SciPy & Statsmodels
 - Interactive Stakeholder Insights: Designing dynamic data visualizations to communicate experiment results clearly
 
-Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Analytics Engineering
+Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Product Analytics
 
 
 
