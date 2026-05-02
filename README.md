@@ -86,7 +86,7 @@ Description: SoundStream Data Product Manager Approach
 - Predictive User Modeling & A/B Testing for Subscription Products
 - Algorithmic Product Management: Segmenting 50k Users for Targeted Growth
 
-Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment
+Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment, Product Analytics
 
 
 ### **🛒 [StatFlow](https://github.com/cbonnin88/StatFlow)**
