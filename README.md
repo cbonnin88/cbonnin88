@@ -107,8 +107,8 @@ Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Produc
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
-- Deepening my knowledge of Machine Learning for Product.
-- Certifications in Product Management
+- Deepening my knowledge of Analytics Engineering for Product.
+- Certifications in Product Analytics
 - Getting certified as a Product Data Analyst and a Product-Focused Analytic Engineer.
 
 ### **💡 What I Want to Learn in the Future**
@@ -117,6 +117,8 @@ Looking ahead, I am excited to dive into these areas:
 Machine Learning Engineering: Building and deploying machine learning models at scale.
 
 Data Engineering and Cloud Computing with Google Cloud Platform
+
+Product Management
 
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
