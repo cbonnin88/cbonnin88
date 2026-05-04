@@ -66,7 +66,7 @@ Description: EcoPulse Systems is a fictitious GreenTech company headquartered in
 Technologies Used : BigQuery, DBT, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://datastudio.google.com/reporting/bca689c0-dfe0-4913-81a2-515330bb12c9/page/TjAvF), Streamlit
 
 
-## **🚀 ETL Pipeline**
+## **⏳ ETL Pipeline**
 In this section, you have smaller projects that focuses ETL and creating data pipelines.
 ### **[Mes-Allocs.fr](https://github.com/cbonnin88/mes_allocs-ETL)**
 Description: An end-to-end project simulating a fintech benefit platform (Mes-Allocs).
@@ -76,7 +76,7 @@ Description: An end-to-end project simulating a fintech benefit platform (Mes-Al
 - Streamlit application for Product Managers.
 
 
-## **🚀 Exploratory Data Analysis**
+## **🧭 Exploratory Data Analysis**
 In this section, you have smaller projects that focuses on using Python and/or SQL for Data Analytics.
 
 ### **🔊 [SoundStream Music App](https://github.com/cbonnin88/SoundStream)**
