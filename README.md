@@ -100,6 +100,9 @@ This project demonstrates a production-grade automated experimentation pipeline 
 
 Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Product Analytics
 
+## **🤖 Machine Learning with a Product Analytics Focuse**
+In this section, you have smaller product projects that focuses on using Machine Learning.
+
 
 
 
