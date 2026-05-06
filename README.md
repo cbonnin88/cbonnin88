@@ -111,8 +111,12 @@ This project demonstrates a Product-Focused EDA approach.
 
 Technologies Used: BigQuery, Data Studio (Formerly Looker Studio), Product Analytics
 
-## **🤖 Machine Learning with a Product Analytics Focuse**
+## **🤖 Machine Learning with a Product Analytics Focus**
 In this section, you have smaller product projects that focuses on using Machine Learning.
+
+## **🤖 Side Projects with a Product Focuse**
+In this section, you will find random side projects on topics that interest me within the product ecosystem.
+
 
 
 
