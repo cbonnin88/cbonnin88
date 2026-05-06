@@ -114,12 +114,19 @@ Technologies Used: BigQuery, Data Studio (Formerly Looker Studio), Product Analy
 ## **🤖 Machine Learning with a Product Analytics Focus**
 In this section, you have smaller product projects that focuses on using Machine Learning.
 
-## **🤖 Side Projects with a Product Focuse**
+## **🎠 Side Projects with a Product Focus**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
 
+### **🍿 [SaaS Pulse](https://github.com/cbonnin88/SaaS_Pulse)**
 
+Description: Saas Pulse Churn Risk Dashboard
+A Churn Risk Dashboard created for Product Managers' use.
 
-
+- High-Performance Data Engine: Replaced Pandas with Polars for lightning-fast, multi-threaded cohort aggregations.
+- Net Revenue Retention (NRR) Matrix: Visualizes expansion revenue vs. churn over the customer lifecycle using a perceptually uniform (Viridis) heatmap.
+- Unit Economics Engine: Calculates the true break-even point by comparing Customer Acquisition Cost (CAC) against Margin-Adjusted Cumulative Lifetime Value (CLV).
+- Predictive Churn Radar: Integrates a Scikit-Learn RandomForestClassifier to assign a real-time churn probability score to every user based on their engagement and spending history.
+- Actionable UI: Includes dynamic risk-threshold sliders and a one-click CSV export for seamless handoffs to Customer Success teams.
 
 
 ## **🌱 What I'm Currently Learning**
