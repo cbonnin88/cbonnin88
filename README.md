@@ -113,7 +113,7 @@ This project is designed for Product Analysts to explore customer demographics, 
 
 Technologies Used: Sci-kit Learn, Python, Polars, Plotly, Streamlit
 
-## **🎠 Side Projects with a Product Focus**
+## **🎠 Product Manager Side Projects**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
 
 ### **🍿 [SaaS Pulse](https://github.com/cbonnin88/SaaS_Pulse)**
