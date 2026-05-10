@@ -111,8 +111,19 @@ This project demonstrates a Product-Focused EDA approach.
 
 Technologies Used: BigQuery, Data Studio (Formerly Looker Studio), Product Analytics
 
-## **🤖 Machine Learning with a Product Analytics Focus**
-In this section, you have smaller product projects that focuses on using Machine Learning.
+## **🤖 Machine Learning with a Product Focus**
+In this section, you have smaller product projects that focus on using Machine Learning.
+
+### **🛍️ [Segment-IQ](https://github.com/cbonnin88/Segment-IQ)**
+
+Description: Segment-IQ web application
+This project is designed for Product Analysts to explore customer demographics, discover distinct shopping segments using unsupervised machine learning, and predict future customer spending.
+
+- Dynamic Customer Segmentation.
+- Spend Prediction AI.
+- Interactive Visualizations.
+
+Technologies Used: Sci-kit Learn, Python, Polars, Plotly, Streamlit
 
 ## **🎠 Side Projects with a Product Focus**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
