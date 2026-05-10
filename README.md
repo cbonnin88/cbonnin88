@@ -54,18 +54,6 @@ Description: MediTrack is a telemedicine app connecting patients with doctors fo
 
 Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
 
-## People Analytics
-### 💶 [EcoVolt](https://github.com/cbonnin88/EcoVolt-HR)
-Description: EcoVolt Renewables is a fictional Western European leader in the Green Energy sector.
-
-Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/922d6a87-46e6-4829-9e34-7fa58752302b), Streamlit
-
-### 👩‍🏭 [LimeLight](https://github.com/cbonnin88/LimeLight)
-Description: EcoPulse Systems is a fictitious GreenTech company headquartered in France with 10,000 employees across 7 European countries. 
-
-Technologies Used : BigQuery, DBT, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://datastudio.google.com/reporting/bca689c0-dfe0-4913-81a2-515330bb12c9/page/TjAvF), Streamlit
-
-
 ## **⏳ ETL Pipeline**
 In this section, you have smaller projects that focuses ETL and creating data pipelines.
 ### **[Mes-Allocs.fr](https://github.com/cbonnin88/mes_allocs-ETL)**
