@@ -113,6 +113,17 @@ This project is designed for Product Analysts to explore customer demographics, 
 
 Technologies Used: Sci-kit Learn, Python, Polars, Plotly, Streamlit
 
+### **🌱 [WattWise](https://github.com/cbonnin88/WattWise)**
+
+Description: WattWise Smart-Charging Analysis
+This project is designed for Data Product Managers to analyze A/B test results for EV charging features, validate statistical significance across Western European markets, and project the financial impact of AI-optimized energy usage.
+
+- Automated A/B Testing Pipeline: Processes normally distributed engagement data and calculates Success Probability using Z-tests.
+-  Z-Score Outlier Guard: Ensures data integrity by automatically filtering simulated sensor errors and charging anomalies ($|Z| > 3$).
+-  Financial Impact Projection: Translates technical "Lift" into annual revenue forecasts based on regional energy tariffs.
+
+Technologies Used: Sci-kit Learn, Python, Statsmodels, Plotly, Streamlit
+
 ## **🎠 Product Manager Side Projects**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
 
