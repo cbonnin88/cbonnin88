@@ -80,6 +80,7 @@ Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment
 ### **🛒 [StatFlow](https://github.com/cbonnin88/StatFlow)**
 
 Description: StatFlow Analytics Engineering Approach
+
 This project demonstrates a production-grade automated experimentation pipeline designed to ingest live data and instantly calculate statistical significance for product decisions.
 
 - High-Performance Data Pipelines: Extracting live API data and scaling data transformations with Polars
@@ -91,6 +92,7 @@ Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Produc
 ### **🍿 [LuminaStream](https://github.com/cbonnin88/LuminaStream)**
 
 Description: LuminaStream Exploratory Analysis
+
 This project demonstrates a Product-Focused EDA approach.
 
 - Developed a Python script using the high-performance Polars library to generate a realistic user base and event stream.
@@ -105,6 +107,7 @@ In this section, you have smaller product projects that focus on using Machine L
 ### **🛍️ [Segment-IQ](https://github.com/cbonnin88/Segment-IQ)**
 
 Description: Segment-IQ web application
+
 This project is designed for Product Analysts to explore customer demographics, discover distinct shopping segments using unsupervised machine learning, and predict future customer spending.
 
 - Dynamic Customer Segmentation.
@@ -116,6 +119,7 @@ Technologies Used: Sci-kit Learn, Python, Polars, Plotly, Streamlit
 ### **🌱 [WattWise](https://github.com/cbonnin88/WattWise)**
 
 Description: WattWise Smart-Charging Analysis
+
 This project is designed for Data Product Managers to analyze A/B test results for EV charging features, validate statistical significance across Western European markets, and project the financial impact of AI-optimized energy usage.
 
 - Automated A/B Testing Pipeline: Processes normally distributed engagement data and calculates Success Probability using Z-tests.
