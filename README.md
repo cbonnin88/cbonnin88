@@ -79,9 +79,7 @@ Technologies Used: Python, Polars, Sckit-Learn, Plotly, Scipy, Product Managment
 
 ### **🛒 [StatFlow](https://github.com/cbonnin88/StatFlow)**
 
-Description: StatFlow Analytics Engineering Approach
-
-This project demonstrates a production-grade automated experimentation pipeline designed to ingest live data and instantly calculate statistical significance for product decisions.
+Description: This project demonstrates a production-grade automated experimentation pipeline designed to ingest live data and instantly calculate statistical significance for product decisions.
 
 - High-Performance Data Pipelines: Extracting live API data and scaling data transformations with Polars
 - Automated Statistical Testing: Validating conversion rates and continuous revenue metrics using SciPy & Statsmodels
@@ -91,9 +89,7 @@ Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Produc
 
 ### **🍿 [LuminaStream](https://github.com/cbonnin88/LuminaStream)**
 
-Description: LuminaStream Exploratory Analysis
-
-This project demonstrates a Product-Focused EDA approach.
+Description: This project demonstrates a Product-Focused EDA approach.
 
 - Developed a Python script using the high-performance Polars library to generate a realistic user base and event stream.
 - Uploaded the NDJSON files to Google BigQuery and optimized the tables for analytical querying.
@@ -106,9 +102,7 @@ In this section, you have smaller product projects that focus on using Machine L
 
 ### **🛍️ [Segment-IQ](https://github.com/cbonnin88/Segment-IQ)**
 
-Description: Segment-IQ web application
-
-This project is designed for Product Analysts to explore customer demographics, discover distinct shopping segments using unsupervised machine learning, and predict future customer spending.
+Description: This project is designed for Product Analysts to explore customer demographics, discover distinct shopping segments using unsupervised machine learning, and predict future customer spending.
 
 - Dynamic Customer Segmentation.
 - Spend Prediction AI.
@@ -116,31 +110,28 @@ This project is designed for Product Analysts to explore customer demographics, 
 
 Technologies Used: Sci-kit Learn, Python, Polars, Plotly, Streamlit
 
-### **🌱 [WattWise](https://github.com/cbonnin88/WattWise)**
-
-Description: WattWise Smart-Charging Analysis
-
-This project is designed for Data Product Managers to analyze A/B test results for EV charging features, validate statistical significance across Western European markets, and project the financial impact of AI-optimized energy usage.
-
-- Automated A/B Testing Pipeline: Processes normally distributed engagement data and calculates Success Probability using Z-tests.
--  Z-Score Outlier Guard: Ensures data integrity by automatically filtering simulated sensor errors and charging anomalies ($|Z| > 3$).
--  Financial Impact Projection: Translates technical "Lift" into annual revenue forecasts based on regional energy tariffs.
-
-Technologies Used: Sci-kit Learn, Python, Statsmodels, Plotly, Streamlit
-
 ## **🎠 Product Manager Side Projects**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
 
 ### **🍿 [SaaS Pulse](https://github.com/cbonnin88/SaaS_Pulse)**
 
-Description: Saas Pulse Churn Risk Dashboard
-A Churn Risk Dashboard created for Product Managers' use.
+Description: A Churn Risk Dashboard created for Product Managers' use.
 
 - High-Performance Data Engine: Replaced Pandas with Polars for lightning-fast, multi-threaded cohort aggregations.
 - Net Revenue Retention (NRR) Matrix: Visualizes expansion revenue vs. churn over the customer lifecycle using a perceptually uniform (Viridis) heatmap.
 - Unit Economics Engine: Calculates the true break-even point by comparing Customer Acquisition Cost (CAC) against Margin-Adjusted Cumulative Lifetime Value (CLV).
 - Predictive Churn Radar: Integrates a Scikit-Learn RandomForestClassifier to assign a real-time churn probability score to every user based on their engagement and spending history.
 - Actionable UI: Includes dynamic risk-threshold sliders and a one-click CSV export for seamless handoffs to Customer Success teams.
+
+### **🌱 [WattWise](https://github.com/cbonnin88/WattWise)**
+
+Description: This project is designed for Data Product Managers to analyze A/B test results for EV charging features, validate statistical significance across Western European markets, and project the financial impact of AI-optimized energy usage.
+
+- Automated A/B Testing Pipeline: Processes normally distributed engagement data and calculates Success Probability using Z-tests.
+-  Z-Score Outlier Guard: Ensures data integrity by automatically filtering simulated sensor errors and charging anomalies ($|Z| > 3$).
+-  Financial Impact Projection: Translates technical "Lift" into annual revenue forecasts based on regional energy tariffs.
+
+Technologies Used: Sci-kit Learn, Python, Statsmodels, Plotly, Streamlit
 
 
 ## **🌱 What I'm Currently Learning**
