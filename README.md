@@ -110,6 +110,16 @@ Description: This project is designed for Product Analysts to explore customer d
 
 Technologies Used: Sci-kit Learn, Python, Polars, Plotly, Streamlit
 
+### **📺 [ReviewMiner](https://github.com/cbonnin88/ReviewMiner)**
+Description: This project is designed for Product Managers to explore qualitative customer feedback, discover distinct product themes using natural language processing, and automatically generate actionable backlog recommendations.
+
+- Dynamic Topic Modeling.
+- Automated Sentiment Analysis.
+- Actionable Insight Export.
+
+Technologies Used: Scikit-Learn, Python, Pandas, Matplotlib, Streamlit, TextBlob, FPDF
+
+
 ## **🎠 Product Manager Side Projects**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
 
