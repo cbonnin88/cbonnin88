@@ -97,7 +97,7 @@ Description: This project demonstrates a Product-Focused EDA approach.
 
 Technologies Used: BigQuery, SQL, Data Studio (Formerly Looker Studio), Product Analytics
 
-### **🍁 [MapleFit Intelligence](https://github.com/cbonnin88/MapleFit)
+### **🍁 [MapleFit Intelligence](https://github.com/cbonnin88/MapleFit)**
 
 Description: An end-to-end project simulating a cross-border fitness platform (Canada/UK).
 
