@@ -95,7 +95,18 @@ Description: This project demonstrates a Product-Focused EDA approach.
 - Uploaded the NDJSON files to Google BigQuery and optimized the tables for analytical querying.
 - Connected Looker Studio directly to BigQuery views to build Lumina Pulse, an interactive executive dashboard.
 
-Technologies Used: BigQuery, Data Studio (Formerly Looker Studio), Product Analytics
+Technologies Used: BigQuery, SQL, Data Studio (Formerly Looker Studio), Product Analytics
+
+### **🍁 [MapleFit Intelligence](https://github.com/cbonnin88/MapleFit)
+
+Description: An end-to-end project simulating a cross-border fitness platform (Canada/UK).
+
+- Raw event generation using Polars for high-performance synthetic data creation.
+- ELT and data modeling using BigQuery and dbt for multi-currency normalization and regional segmentation.
+- Product analytics focusing on Cohort Retention, DAU/MAU stickiness, and Time-to-Value (TTV).
+- Streamlit application featuring a personalized Feature Recommendation Engine for Product Managers.
+
+Technologies Used: BigQuery, SQL, dbt, Streamlit
 
 ## **🤖 Machine Learning with a Product Focus**
 In this section, you have smaller product projects that focus on using Machine Learning.
