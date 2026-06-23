@@ -28,10 +28,10 @@ Description: EcoFlux is a GreenTech platform designed to optimize EV charging an
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Airbyte, Scikit-Learn, DBT, Looker Studio, Amplitude
 
-## **🚀 Data Analytics Projects**
+## **🚀 Product Analytics**
 In this section, you have smaller projects that focuses on certain skills in Data Analytics.
 
-## Product Analytics
+
 ### **🚄 [RailFlow](https://github.com/cbonnin88/RailFlow)**
 Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
 
