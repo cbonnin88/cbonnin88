@@ -76,16 +76,6 @@ Description: This project demonstrates a production-grade automated experimentat
 
 Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Product Analytics
 
-### **🍿 [LuminaStream](https://github.com/cbonnin88/LuminaStream)**
-
-Description: This project demonstrates a Product-Focused EDA approach.
-
-- Developed a Python script using the high-performance Polars library to generate a realistic user base and event stream.
-- Uploaded the NDJSON files to Google BigQuery and optimized the tables for analytical querying.
-- Connected Looker Studio directly to BigQuery views to build Lumina Pulse, an interactive executive dashboard.
-
-Technologies Used: BigQuery, SQL, Data Studio (Formerly Looker Studio), Product Analytics
-
 ### **🍁 [MapleFit Intelligence](https://github.com/cbonnin88/MapleFit)**
 
 Description: An end-to-end project simulating a cross-border fitness platform (Canada/UK).
