@@ -173,7 +173,8 @@ Product Management
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
 
-Take a look at my CV: [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/main/AE-FR-CVBONNIN.pdf)
+Take a look at my CV: [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/main/PAE-FR-CVBONNIN.pdf) - French
+                      [Christopher Bonnin]()
 
 LinkedIn: [**Christopher Bonnin**](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
 
