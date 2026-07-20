@@ -76,6 +76,17 @@ Description: This project demonstrates a production-grade automated experimentat
 
 Technologies Used: Python, Polars, SciPy, Statsmodels, Plotly, REST APIs, Product Analytics
 
+### **🌱 [EcoTrack](https://github.com/cbonnin88/EcoTrack)**
+
+Description: An end-to-end data engineering and analytics project simulating a consumer ClimateTech mobile platform across Western Europe.
+
+- Raw event generation using Python (`pandas` and `Faker`) for realistic demographic, clickstream, and financial synthetic data creation.
+- ELT and data modeling using Fivetran, BigQuery, and dbt Cloud to build an optimized One-Big-Table (OBT) that eliminates BI runtime join latency.
+- Product analytics focusing on 7-day DAU/MAU stickiness, Free-to-Premium conversion funnels, and Time to First Core Action.
+- Looker Studio executive dashboard featuring dynamic semantic-layer ratios (ARPU) and demographic cohort breakdowns for product stakeholders.
+
+Technologies Used: Python, Fivetran, Google Cloud Storage, BigQuery, SQL, dbt Cloud, Looker Studio
+
 ### **🍁 [MapleFit Intelligence](https://github.com/cbonnin88/MapleFit)**
 
 Description: An end-to-end project simulating a cross-border fitness platform (Canada/UK).
