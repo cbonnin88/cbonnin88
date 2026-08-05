@@ -98,6 +98,15 @@ Description: An end-to-end project simulating a cross-border fitness platform (C
 
 Technologies Used: BigQuery, SQL, dbt, Streamlit
 
+### **🏥 [EuroHealth](https://www.loom.com/share/1d36a0dda0f14a93b7b418a62395ff86)**
+Description: A Python, Streamlit, and dbt analytics project that extracts, models, and visualizes core metrics from digital health applications to drive data-informed product management decisions.
+
+- Data Source: Ingests raw telemetry and event data into Google BigQuery using a managed pipeline like Fivetran, seamlessly cleaning, structuring, and aggregating it into staging (stg_events) and mart (fct_user_activity) layers using dbt.
+- Metric Calculation: Calculates critical product KPIs by translating raw session and event data into metrics like Daily Active Users (DAU), Funnel Conversion Rates, and Overall Success Rates.
+- Actionable Output: The dbt models generate clean fact tables that feed directly into a deployed, interactive Streamlit dashboard. Plotly visualizations immediately highlight user friction points (funnel drop-offs before document uploads) and track platform engagement to inform product strategy.
+
+Technologies Used: Fivetran, Google BigQuery, dbt, Python, Streamlit, Plotly Express, Streamlit Community Cloud
+
 ## **🤖 Machine Learning with a Product Focus**
 In this section, you have smaller product projects that focus on using Machine Learning.
 
