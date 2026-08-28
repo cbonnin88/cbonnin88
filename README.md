@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Chris, a Product-Focused Data Analyst / Analytics Engineer
+# 👋 Hi there, I'm Chris, a Data Analyst / Analytics Engineer
 
-I'm an Analytics Engineer specializing in the GCP ecosystem and scalable data modeling. I bridge the gap between raw data and business logic by building robust, version-controlled pipelines and high-performance BigQuery environments. I’m focused on transforming messy datasets into a "single source of truth" that empowers teams to make high-stakes decisions with confidence. I have a passion for **Product Analytics and HR Analytics**.
+I'm an Data Analyst/Analytics Engineer specializing in the GCP ecosystem and scalable data modeling. I bridge the gap between raw data and business logic by building robust, version-controlled pipelines and high-performance BigQuery environments. I’m focused on transforming messy datasets into a "single source of truth" that empowers teams to make high-stakes decisions with confidence. I have a passion for **Product Analytics and HR Analytics**.
 
 ## **🧰 My Tech Stack**
 Here are some of the key technologies and tools I work with:
@@ -179,7 +179,7 @@ I believe in continuous learning and am always looking to expand my skill set. C
 
 - Deepening my knowledge of Analytics Engineering for Product.
 - Certifications in Product Analytics
-- Getting certified as a Product Data Analyst and a Product-Focused Analytic Engineer.
+- Getting certified as a Product Data Analyst or HR Data Analyst.
 
 ### **💡 What I Want to Learn in the Future**
 Looking ahead, I am excited to dive into these areas:
