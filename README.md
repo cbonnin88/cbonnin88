@@ -15,7 +15,7 @@ Programming & Querying: Python (Pandas, NumPy, Polars, Plotly), Go
 
 Data Visualization: Looker, Tableau
 
-Product Analytics: Amplitude, MixPanel, Posthog
+HR Analytics: Workday, HRIS systems
 
 Version Control: Git & GitHub
 
@@ -28,8 +28,8 @@ Description: EcoFlux is a GreenTech platform designed to optimize EV charging an
 
 Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Airbyte, Scikit-Learn, DBT, Looker Studio, Amplitude
 
-## **🚀 Product Analytics**
-In this section, you have smaller projects that focuses on certain skills in Data Analytics.
+## **🚀 People Analytics**
+In this section, you have smaller projects that focus on certain skills in Data Analytics.
 
 
 ### **🚄 [RailFlow](https://github.com/cbonnin88/RailFlow)**
@@ -107,7 +107,7 @@ Description: A Python, Streamlit, and dbt analytics project that extracts, model
 
 Technologies Used: Fivetran, Google BigQuery, dbt, Python, Streamlit, Plotly Express, Streamlit Community Cloud
 
-## **🤖 Machine Learning with a Product Focus**
+## **🤖 Machine Learning with an HR Focus**
 In this section, you have smaller product projects that focus on using Machine Learning.
 
 ### **🛍️ [Segment-IQ](https://github.com/cbonnin88/Segment-IQ)**
@@ -130,7 +130,7 @@ Description: This project is designed for Product Managers to explore qualitativ
 Technologies Used: Scikit-Learn, Python, Pandas, Matplotlib, Streamlit, TextBlob, FPDF
 
 
-## **🎠 Product Manager Side Projects**
+## **🎠 Human Resources Side Projects**
 In this section, you will find random side projects on topics that interest me within the product ecosystem.
 
 ### **🍿 [SaaS Pulse](https://github.com/cbonnin88/SaaS_Pulse)**
@@ -164,22 +164,22 @@ Description: A "Smart Bundle & Liquidity" Machine Learning Engine that dynamical
 
 Technologies Used: Google BigQuery (SQL), Python, Polars, SciPy, Plotly, Streamlit, Mixpanel
 
-## SQL and Python for Product
-Product Analytics Projects using Python and SQL, mixing product metrics and product sense with technical usage
+## SQL and Python for HR
+People Analytics Projects using Python and SQL, mixing HR metrics and human sense with technical usage
 
-### **[SQL for Product](https://github.com/cbonnin88/SQL-for-Product)**
-Various projects using SQL, Product Metrics, and Product Sense
+### **[SQL for Human Resources](https://github.com/cbonnin88/SQL-for-Product)**
+Various projects using SQL, HR Metrics, and People Sense
 
-### **[Python for Product](https://github.com/cbonnin88/Python-For-Product)**
-Product-focused projects using Python and Product Management metrics
+### **[Python for Human Resources](https://github.com/cbonnin88/Python-For-Product)**
+Product-focused projects using Python and Human Resources metrics
 
 
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
 - Deepening my knowledge of Analytics Engineering for Product.
-- Certifications in Product Analytics
-- Getting certified as a Product Data Analyst or HR Data Analyst.
+- Certifications in People Analytics
+- Getting certified as an HR Data Analyst.
 
 ### **💡 What I Want to Learn in the Future**
 Looking ahead, I am excited to dive into these areas:
@@ -188,14 +188,13 @@ Machine Learning Engineering: Building and deploying machine learning models at 
 
 Data Engineering and Cloud Computing with Google Cloud Platform
 
-Product Management
+People Analytics
 
 #### **📫 Let's Connect!**
 I'm always open to connecting with fellow data professionals or exploring potential opportunities. Feel free to reach out!
 
 Take a look at my CVs:
-- [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/main/PAE-FR-CVBONNIN.pdf) - French
-- [Christopher Bonnin](https://github.com/cbonnin88/cbonnin88/blob/main/PA-EN-CVBONNIN.pdf) - English
+
 
 LinkedIn: [**Christopher Bonnin**](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
 
