@@ -142,17 +142,6 @@ Description: This project is designed for Data Product Managers to analyze A/B t
 
 Technologies Used: Sci-kit Learn, Python, Statsmodels, Plotly, Streamlit
 
-### **🍿 [ThreadFlip](https://github.com/cbonnin88/ThreadFlip)**
-
-Description: A "Smart Bundle & Liquidity" Machine Learning Engine that dynamically incentivizes multi-item purchases from the same seller.
-
-- Reverse-ETL Analytics Pipeline: Extracts historical BigQuery event logs, applies temporal-shifting transformations, and loads normalized JSON payloads into Mixpanel to visualize live checkout funnels.
-- Automated A/B Testing Evaluation: Processes simulated experiment cohorts to validate the statistical significance of the "Smart Bundle" feature using Chi-Square proportion tests and Polars aggregation.
-- Financial ROI Projection Dashboard: Translates technical conversion "Lift" into projected Gross Merchandise Value (GMV) gains, while dynamically modeling ARPU and Customer Lifetime Value (CLV) based on churn parameters.
-- Telemetry Data Contracts: Ensure data integrity by establishing strict JSON schemas for front-end engineers to log machine learning recommendation interactions and route invalid payloads to a Dead Letter Queue.
-
-Technologies Used: Google BigQuery (SQL), Python, Polars, SciPy, Plotly, Streamlit, Mixpanel
-
 ## SQL and Python for HR
 People Analytics Projects using Python and SQL, mixing HR metrics and human sense with technical usage
 
