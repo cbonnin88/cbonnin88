@@ -177,7 +177,7 @@ Product-focused projects using Python and Human Resources metrics
 ## **🌱 What I'm Currently Learning**
 I believe in continuous learning and am always looking to expand my skill set. Currently, I'm focused on:
 
-- Deepening my knowledge of Analytics Engineering for Product.
+- Deepening my knowledge of Analytics Engineering for Human Resources.
 - Certifications in People Analytics
 - Getting certified as an HR Data Analyst.
 
