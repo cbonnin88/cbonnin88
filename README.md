@@ -32,16 +32,10 @@ Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, DBT, Looker Studio,
 In this section, you have smaller projects that focus on certain skills in Data Analytics.
 
 
-### **🚄 [RailFlow](https://github.com/cbonnin88/RailFlow)**
-Description: RailFlow is a mobile app allowing users to search for train routes, buy tickets, and manage subscriptions
+### **🚄 [Viridian Capital](https://github.com/cbonnin88/ViridianCapital_HR)**
+Description: Viridian Capital manages a global workforce of 12,500+ employees.
 
-Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Scikit-Learn, DBT, [Looker Studio](https://datastudio.google.com/reporting/c87b2a73-0902-43b3-9ee3-318a72594e91/page/4JqlF), Streamlit, Amplitude
-
-
-### **📱 [MediTrack](https://github.com/cbonnin88/meditrack)**
-Description: MediTrack is a telemedicine app connecting patients with doctors for video consultations.
-
-Technologies Used : BigQuery, Python(Polars, Plotly), Machine Learning(Linear Regression, classification), [Looker Studio](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e), Streamlit, Amplitude
+Technologies Used: Python(Polars, Pandas,Plotly), Snowflake, Scikit-Learn, DBT, Looker Studio, Streamlit, Google Sheets
 
 ## **⏳ ETL Pipeline**
 In this section, you have smaller projects that focuses ETL and creating data pipelines.
