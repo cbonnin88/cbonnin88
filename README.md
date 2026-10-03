@@ -39,12 +39,7 @@ Technologies Used: Python(Polars, Pandas,Plotly), Snowflake, Scikit-Learn, DBT, 
 
 ## **⏳ ETL Pipeline**
 In this section, you have smaller projects that focuses ETL and creating data pipelines.
-### **[Mes-Allocs.fr](https://github.com/cbonnin88/mes_allocs-ETL)**
-Description: An end-to-end project simulating a fintech benefit platform (Mes-Allocs).
-- Raw event generation
-- ELT to dbt modeling using FiveTran and dbt.core
-- Machine learning for churn prediction and A/B Testing
-- Streamlit application for Product Managers.
+
 
 
 ## **🧭 Exploratory Data Analysis**
