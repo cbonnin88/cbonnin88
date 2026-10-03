@@ -20,13 +20,13 @@ HR Analytics: Workday, HRIS systems
 Version Control: Git & GitHub
 
 
-## **🚀 Analytic Engineer Projects**
+## **🚀 HR Analytic Engineer Projects**
 In this section, you'll find a selection of projects that demonstrate my skills and experience. Each project includes a detailed description of the problem, the solution, and the technologies used.
 
-### **🌿 [Ecoflux: Product Analytic Engineering](https://github.com/cbonnin88/EcoFlux)**
-Description: EcoFlux is a GreenTech platform designed to optimize EV charging and domestic energy usage across Western Europe
+### **🌿 [EcoPulse Systems: HR & People Analytics](https://github.com/cbonnin88/LimeLight)**
+Description: EcoPulse Systems is a fictitious GreenTech company headquartered in France with 10,000 employees across 7 European countries. 
 
-Technologies Used: Python(Polars, Pandas,Plotly), BigQuery, Airbyte, Scikit-Learn, DBT, Looker Studio, Amplitude
+Technologies Used: Python(Polars, Pandas, Plotly), BigQuery, DBT, Looker Studio, Google Sheets, Scikit-Learn
 
 ## **🚀 People Analytics**
 In this section, you have smaller projects that focus on certain skills in Data Analytics.
